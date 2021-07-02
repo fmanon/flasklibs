@@ -1,0 +1,3 @@
+def madlibs(noun, verb, adjective, adverb):
+
+    return (f"The {adjective}{noun}<br><br>Once upon a time, deep in an ancient jungle,<br>there lived a {adjective}{noun}.  This {noun}<br>liked to {adverb}{verb} a lot, but the jungle had<br>very little opportunities to {verb}.  One day, an<br>explorer found the {adjective}{noun} and discovered<br>it liked to {adverb}{verb}.  The explorer took the<br>{noun} back to the city, where it could<br>{verb} as {adverb} as it wanted.  However,<br>the {adjective}{noun} became homesick, so the<br>explorer brought it back to the jungle,<br>leaving behind all the {adverb}{verb}.<br><br>The End")
